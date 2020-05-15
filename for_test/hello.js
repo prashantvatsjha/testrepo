@@ -19,3 +19,5 @@ var User = /** @class */ (function () {
 }());
 var u = new User(1, 2);
 u.addNumber();
+
+//comment
